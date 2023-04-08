@@ -2,3 +2,16 @@ microservice1:
   url: http://MICROSERVICE1
 microservice2:
   url: http://MICROSERVICE2
+
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: AI-assistant
+
+
+jwt:
+  secret: your-secret-key-here
+  expiration: 86400000

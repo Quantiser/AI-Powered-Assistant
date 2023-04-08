@@ -1,0 +1,4 @@
+microservice1:
+  url: http://MICROSERVICE1
+microservice2:
+  url: http://MICROSERVICE2
